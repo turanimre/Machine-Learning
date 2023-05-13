@@ -13,3 +13,6 @@ Bu üç makine öğrenmesi yaklaşımının, farklı türde verileri işlemek i�
 CaseStudy 1. -- [Case_Study_1_House_Price_Predicton](https://github.com/turanimre/Machine-Learning/blob/main/Case_Study_1_House_Price_Predicton.py)🔗
 
 CaseStudy 2. -- [Case_Study_2_Scouting Classification](https://github.com/turanimre/Machine-Learning/blob/main/Case_Study_2_Scouting%20Classification.py)🔗
+
+
+## [Bootcamp All Contents](https://github.com/turanimre/VBO_datascience_bootcamp)🔗
